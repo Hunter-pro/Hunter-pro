@@ -3,7 +3,7 @@
 ![picture about myself](https://github.com/Hunter-pro/Hunter-pro/assets/101683063/dd62ae95-312a-431c-9a56-9618e0b14667)
 
 
-Hello👋,my name kushal cherukula.I am currently pursuing bachelor of technology in computer science engineering from Guru Nanak Institute of Technology (GNIT).
+Hello👋,my name is kushal cherukula.I am currently pursuing bachelor of technology in computer science engineering from Guru Nanak Institute of Technology (GNIT).
 
 ABOUT ME:
 I am a passionate tech enthusiast with a perpetual curiosity for cutting-edge technologies, consistently seeking out the latest advancements and understanding the driving forces behind their creation. My particular fascination lies in artificial intelligence, a domain I believe will profoundly shape our future.
